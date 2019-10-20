@@ -1,6 +1,8 @@
 # firstdemoproject
 
-## Second Heading ##
+## Second Heading 
 
-###### smallest heading ######
+###### smallest heading 
 This is my first demo project
+
+**Hello this is bold**
